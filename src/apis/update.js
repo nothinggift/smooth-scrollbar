@@ -12,7 +12,7 @@ import { SmoothScrollbar } from '../smooth-scrollbar';
  * Update canvas size
  */
 function updateCanvas() {
-    if (this.options.overscrollEffect !== 'glow') return;
+    if (this.options.overscrollEffect !== 'glow' && !this.options.pullToRefresh) return;
 
     const { targets, size } = this;
     const { elem, context } = targets.canvas;

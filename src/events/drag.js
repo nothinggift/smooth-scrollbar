@@ -8,7 +8,6 @@ import { setStyle } from '../utils/';
 
 function __dragHandler() {
     const { container, content } = this.targets;
-
     let isDrag = false;
     let animation, padding;
 
@@ -21,9 +20,7 @@ function __dragHandler() {
 
     const scroll = ({ x, y }) => {
         if (!x && !y) return;
-
         const { speed } = this.options;
-
         this.__setMovement(x * speed, y * speed);
 
         animation = requestAnimationFrame(() => {
@@ -40,7 +37,6 @@ function __dragHandler() {
         setStyle(content, {
             'pointer-events': 'auto',
         });
-
         cancelAnimationFrame(animation);
         this.__updateBounding();
     });
@@ -49,9 +45,7 @@ function __dragHandler() {
         if (!isDrag || this.__eventFromChildScrollbar(evt)) return;
         cancelAnimationFrame(animation);
         evt.preventDefault();
-
         const dir = this.__getPointerTrend(evt, padding);
-
         scroll(dir);
     });
 

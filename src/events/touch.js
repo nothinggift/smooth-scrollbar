@@ -25,7 +25,6 @@ function __touchHandler() {
     const {
         container,
     } = targets;
-
     this.__addEvent(container, 'touchstart', (evt) => {
         if (this.__isDrag) return;
 
@@ -44,7 +43,6 @@ function __touchHandler() {
     this.__addEvent(container, 'touchmove', (evt) => {
         if (this.__isDrag) return;
         if (activeScrollbar && activeScrollbar !== this) return;
-
         __touchRecord.update(evt);
 
         let { x, y } = __touchRecord.getDelta();
@@ -53,7 +51,7 @@ function __touchHandler() {
             return this.__updateThrottle();
         }
 
-        const { movement, MAX_OVERSCROLL, options } = this;
+        const { movement, MAX_OVERSCROLL, PULL_TO_REFRESH_MAX_OVERSCROLL, options } = this;
 
         if (movement.x && this.__willOverscroll('x', x)) {
             let factor = 2;
@@ -70,18 +68,17 @@ function __touchHandler() {
         }
         if (movement.y && this.__willOverscroll('y', y)) {
             let factor = 2;
-
-            if (options.overscrollEffect === 'bounce') {
-                factor += Math.abs(10 * movement.y / MAX_OVERSCROLL);
+            const maxOverScrollSize = movement.y < 0 && options.pullToRefresh ? PULL_TO_REFRESH_MAX_OVERSCROLL : MAX_OVERSCROLL;
+            if ((movement.y < 0 && options.pullToRefresh) || options.overscrollEffect === 'bounce') {
+                factor += Math.abs(10 * movement.y / maxOverScrollSize);
             }
 
-            if (Math.abs(movement.y) >= MAX_OVERSCROLL) {
+            if (Math.abs(movement.y) >= maxOverScrollSize) {
                 y = 0;
             } else {
                 y /= factor;
             }
         }
-
         this.__autoLockMovement();
 
         evt.preventDefault();

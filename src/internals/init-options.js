@@ -20,6 +20,10 @@ function __initOptions(userPreference) {
         overscrollEffect: false,          // overscroll effect, false | 'bounce' | 'glow'
         overscrollEffectColor: '#87ceeb', // android overscroll effect color
         overscrollDamping: 0.2,           // overscroll damping factor
+        overscrollDirection: ['top', 'bottom', 'left', 'right'],    // 允许显示超出滚动效果的方向
+        pullToRefresh: false,           // 下拉刷新
+        pullToRefreshSize: null,        // 下拉刷新开始的距离
+        pullToRefreshCallback: null, // 下拉刷新回调方法
     };
 
     const limit = {
@@ -28,6 +32,7 @@ function __initOptions(userPreference) {
         thumbMinSize: [0, Infinity],
         overscrollEffect: [false, 'bounce', 'glow'],
         overscrollDamping: [0, 1],
+        pullToRefreshSize: [0, Infinity],
     };
 
     const isContinous = (mode = 'auto') => {
@@ -115,6 +120,18 @@ function __initOptions(userPreference) {
         },
         set overscrollEffectColor(v) {
             options.overscrollEffectColor = v;
+        },
+        get pullToRefresh() {
+            return options.pullToRefresh;
+        },
+        set pullToRefresh(v) {
+            options.pullToRefresh = !!v;
+        },
+        get pullToRefreshCallback() {
+            return options.pullToRefreshCallback;
+        },
+        set pullToRefreshCallback(fn) {
+            options.pullToRefreshCallback = fn;
         },
     };
 

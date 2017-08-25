@@ -12,7 +12,7 @@ function __getDeltaLimit(allowOverscroll = false) {
         limit,
     } = this;
 
-    if (allowOverscroll && (options.continuousScrolling || options.overscrollEffect)) {
+    if (allowOverscroll && (options.continuousScrolling || options.overscrollEffect || options.pullToRefresh)) {
         return {
             x: [-Infinity, Infinity],
             y: [-Infinity, Infinity],

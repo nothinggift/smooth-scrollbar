@@ -49,6 +49,9 @@ module.exports = {
             ]),
         }],
     },
+    devServer: {
+        disableHostCheck: true,
+    },
     postcss: [autoprefixer],
     plugins: [
         new webpack.DefinePlugin({

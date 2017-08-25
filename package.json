@@ -1,7 +1,7 @@
 {
-  "name": "smooth-scrollbar",
-  "version": "7.3.1",
-  "description": "Customize scrollbar in modern browsers with smooth scrolling experience.",
+  "name": "tk-smooth-scrollbar",
+  "version": "1.0.0",
+  "description": "forked from https://github.com/idiotWu/smooth-scrollbar.git",
   "main": "dist/smooth-scrollbar.js",
   "style": "dist/smooth-scrollbar.css",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idiotWu/smooth-scrollbar.git"
+    "url": "git+https://github.com/nothinggift/smooth-scrollbar.git"
   },
   "keywords": [
     "scrollbar",
@@ -71,6 +71,6 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^2.1.1",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "16.3"
   }
 }

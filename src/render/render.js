@@ -62,13 +62,12 @@ function __render() {
         overscrollRendered,
         __timerID,
     } = this;
-
     if (movement.x || movement.y || overscrollRendered.x || overscrollRendered.y) {
         const nextX = this::nextTick('x');
         const nextY = this::nextTick('y');
         const overflowDir = [];
 
-        if (options.overscrollEffect) {
+        if (options.overscrollEffect || options.pullToRefresh) {
             const destX = pickInRange(nextX.position, 0, limit.x);
             const destY = pickInRange(nextY.position, 0, limit.y);
 
@@ -84,14 +83,12 @@ function __render() {
                 overflowDir.push('y');
             }
         }
-
         if (!this.movementLocked.x) movement.x = nextX.movement;
         if (!this.movementLocked.y) movement.y = nextY.movement;
 
         this.setPosition(nextX.position, nextY.position);
         this.__renderOverscroll(overflowDir);
     }
-
     __timerID.render = requestAnimationFrame(this::__render);
 };
 

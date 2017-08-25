@@ -114,6 +114,9 @@ export class SmoothScrollbar {
             __listeners: {
                 value: [],
             },
+            __overscrolllisteners: {
+                value: [],
+            },
             __handlers: {
                 value: [],
             },
@@ -122,6 +125,10 @@ export class SmoothScrollbar {
             },
             __timerID: {
                 value: {},
+            },
+            __putllToRefreshType: {
+                value: 'none',
+                writable: true,
             },
         });
 
@@ -164,6 +171,14 @@ export class SmoothScrollbar {
         default:
             return 0;
         }
+    }
+
+    get PULL_TO_REFRESH_MAX_OVERSCROLL() {
+        const { options, size } = this;
+        const diagonal = Math.floor(Math.sqrt(size.container.width ** 2 + size.container.height ** 2));
+        const touchFactor = this.__isMovementLocked() ? 2 : 10;
+        const minSize = options.pullToRefreshSize ? options.pullToRefreshSize * 1.5 : 200;
+        return GLOBAL_ENV.TOUCH_SUPPORTED ? pickInRange(diagonal / touchFactor, minSize, 1000) : pickInRange(diagonal / 10, 25, 50);
     }
 
     get scrollTop() {
