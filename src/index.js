@@ -29,11 +29,12 @@ SmoothScrollbar.init = (elem, options) => {
 
     elem.setAttribute('data-scrollbar', '');
 
-    const childNodes = [...elem.childNodes];
+    if (!options || !options.noWrapHtml) {
+        const childNodes = [...elem.childNodes];
 
-    const div = document.createElement('div');
+        const div = document.createElement('div');
 
-    div.innerHTML = `
+        div.innerHTML = `
         <div class="scroll-content"></div>
         <div class="scrollbar-track scrollbar-track-x">
             <div class="scrollbar-thumb scrollbar-thumb-x"></div>
@@ -43,12 +44,12 @@ SmoothScrollbar.init = (elem, options) => {
         </div>
         <canvas class="overscroll-glow"></canvas>
     `;
+        const scrollContent = div.querySelector('.scroll-content');
 
-    const scrollContent = div.querySelector('.scroll-content');
+        [...div.childNodes].forEach((el) => elem.appendChild(el));
 
-    [...div.childNodes].forEach((el) => elem.appendChild(el));
-
-    childNodes.forEach((el) => scrollContent.appendChild(el));
+        childNodes.forEach((el) => scrollContent.appendChild(el));
+    }
 
     return new SmoothScrollbar(elem, options);
 };

@@ -2,83 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedf79c8-2109-4eed-8933-444de79eeb6c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/smooth-scrollbar.css" afterPath="$PROJECT_DIR$/dist/smooth-scrollbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/smooth-scrollbar.js" afterPath="$PROJECT_DIR$/dist/smooth-scrollbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/clear-movement.js" afterPath="$PROJECT_DIR$/lib/apis/clear-movement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/destroy.js" afterPath="$PROJECT_DIR$/lib/apis/destroy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/get-content-elem.js" afterPath="$PROJECT_DIR$/lib/apis/get-content-elem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/get-size.js" afterPath="$PROJECT_DIR$/lib/apis/get-size.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/index.js" afterPath="$PROJECT_DIR$/lib/apis/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/infinite-scroll.js" afterPath="$PROJECT_DIR$/lib/apis/infinite-scroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/is-visible.js" afterPath="$PROJECT_DIR$/lib/apis/is-visible.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/listener.js" afterPath="$PROJECT_DIR$/lib/apis/listener.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/manage-events.js" afterPath="$PROJECT_DIR$/lib/apis/manage-events.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/scroll-into-view.js" afterPath="$PROJECT_DIR$/lib/apis/scroll-into-view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/scroll-to.js" afterPath="$PROJECT_DIR$/lib/apis/scroll-to.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/set-options.js" afterPath="$PROJECT_DIR$/lib/apis/set-options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/set-position.js" afterPath="$PROJECT_DIR$/lib/apis/set-position.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/toggle-track.js" afterPath="$PROJECT_DIR$/lib/apis/toggle-track.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apis/update.js" afterPath="$PROJECT_DIR$/lib/apis/update.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/drag.js" afterPath="$PROJECT_DIR$/lib/events/drag.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/index.js" afterPath="$PROJECT_DIR$/lib/events/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/keyboard.js" afterPath="$PROJECT_DIR$/lib/events/keyboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/mouse.js" afterPath="$PROJECT_DIR$/lib/events/mouse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/resize.js" afterPath="$PROJECT_DIR$/lib/events/resize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/select.js" afterPath="$PROJECT_DIR$/lib/events/select.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/touch.js" afterPath="$PROJECT_DIR$/lib/events/touch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/events/wheel.js" afterPath="$PROJECT_DIR$/lib/events/wheel.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/index.js" afterPath="$PROJECT_DIR$/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/add-event.js" afterPath="$PROJECT_DIR$/lib/internals/add-event.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/event-from-child-scrollbar.js" afterPath="$PROJECT_DIR$/lib/internals/event-from-child-scrollbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/get-delta-limit.js" afterPath="$PROJECT_DIR$/lib/internals/get-delta-limit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/get-pointer-trend.js" afterPath="$PROJECT_DIR$/lib/internals/get-pointer-trend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/index.js" afterPath="$PROJECT_DIR$/lib/internals/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/init-options.js" afterPath="$PROJECT_DIR$/lib/internals/init-options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/init-scrollbar.js" afterPath="$PROJECT_DIR$/lib/internals/init-scrollbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/readonly.js" afterPath="$PROJECT_DIR$/lib/internals/readonly.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/set-thumb-position.js" afterPath="$PROJECT_DIR$/lib/internals/set-thumb-position.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/update-bounding.js" afterPath="$PROJECT_DIR$/lib/internals/update-bounding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/internals/update-tree.js" afterPath="$PROJECT_DIR$/lib/internals/update-tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/overscroll/bounce.js" afterPath="$PROJECT_DIR$/lib/overscroll/bounce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/overscroll/glow.js" afterPath="$PROJECT_DIR$/lib/overscroll/glow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/overscroll/index.js" afterPath="$PROJECT_DIR$/lib/overscroll/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/add-movement.js" afterPath="$PROJECT_DIR$/lib/render/add-movement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/index.js" afterPath="$PROJECT_DIR$/lib/render/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/movement-lock.js" afterPath="$PROJECT_DIR$/lib/render/movement-lock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/render-overscroll.js" afterPath="$PROJECT_DIR$/lib/render/render-overscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/render.js" afterPath="$PROJECT_DIR$/lib/render/render.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/set-movement.js" afterPath="$PROJECT_DIR$/lib/render/set-movement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/should-propagate-movement.js" afterPath="$PROJECT_DIR$/lib/render/should-propagate-movement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/render/will-overscroll.js" afterPath="$PROJECT_DIR$/lib/render/will-overscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/global-env.js" afterPath="$PROJECT_DIR$/lib/shared/global-env.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/index.js" afterPath="$PROJECT_DIR$/lib/shared/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/sb-list.js" afterPath="$PROJECT_DIR$/lib/shared/sb-list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/selectors.js" afterPath="$PROJECT_DIR$/lib/shared/selectors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smooth-scrollbar.js" afterPath="$PROJECT_DIR$/lib/smooth-scrollbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/build-curve.js" afterPath="$PROJECT_DIR$/lib/utils/build-curve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/debounce.js" afterPath="$PROJECT_DIR$/lib/utils/debounce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/find-child.js" afterPath="$PROJECT_DIR$/lib/utils/find-child.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/get-delta.js" afterPath="$PROJECT_DIR$/lib/utils/get-delta.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/get-pointer-data.js" afterPath="$PROJECT_DIR$/lib/utils/get-pointer-data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/get-position.js" afterPath="$PROJECT_DIR$/lib/utils/get-position.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/get-touch-id.js" afterPath="$PROJECT_DIR$/lib/utils/get-touch-id.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/index.js" afterPath="$PROJECT_DIR$/lib/utils/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/is-one-of.js" afterPath="$PROJECT_DIR$/lib/utils/is-one-of.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/pick-in-range.js" afterPath="$PROJECT_DIR$/lib/utils/pick-in-range.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/set-style.js" afterPath="$PROJECT_DIR$/lib/utils/set-style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/touch-record.js" afterPath="$PROJECT_DIR$/lib/utils/touch-record.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/apis/update.js" afterPath="$PROJECT_DIR$/src/apis/update.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/events/drag.js" afterPath="$PROJECT_DIR$/src/events/drag.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/events/touch.js" afterPath="$PROJECT_DIR$/src/events/touch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/internals/get-delta-limit.js" afterPath="$PROJECT_DIR$/src/internals/get-delta-limit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/internals/init-options.js" afterPath="$PROJECT_DIR$/src/internals/init-options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/overscroll/bounce.js" afterPath="$PROJECT_DIR$/src/overscroll/bounce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/render/render-overscroll.js" afterPath="$PROJECT_DIR$/src/render/render-overscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/render/render.js" afterPath="$PROJECT_DIR$/src/render/render.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/smooth-scrollbar.js" afterPath="$PROJECT_DIR$/src/smooth-scrollbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/test/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/scripts/controller.js" afterPath="$PROJECT_DIR$/test/scripts/controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,11 +25,9 @@
       <file leaf-file-name="render-overscroll.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/render/render-overscroll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-              <folding>
-                <element signature="e#64#118#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="817">
+              <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,29 +35,33 @@
       <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/scripts/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            <state relative-caret-position="190">
+              <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drag.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/events/drag.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="4522">
+              <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="render.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/render/render.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="226">
+              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+                <marker date="1503998111673" expanded="true" signature="1031:1112" ph="..." />
+                <marker date="1503998111673" expanded="true" signature="1168:1249" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,8 +69,8 @@
       <file leaf-file-name="touch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/events/touch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+            <state relative-caret-position="1995">
+              <caret line="110" column="22" lean-forward="false" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -147,7 +79,7 @@
       <file leaf-file-name="movement-lock.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/render/movement-lock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="494">
               <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -159,18 +91,8 @@
       <file leaf-file-name="smooth-scrollbar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/smooth-scrollbar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="130" column="31" lean-forward="false" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overscroll-listener.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/apis/overscroll-listener.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="1767">
+              <caret line="103" column="39" lean-forward="false" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -179,8 +101,8 @@
       <file leaf-file-name="init-options.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/internals/init-options.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="456">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="e#59#99#0" expanded="true" />
               </folding>
@@ -188,11 +110,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="68" lean-forward="true" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+            <state relative-caret-position="133">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/scripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -235,8 +167,10 @@
         <option value="$PROJECT_DIR$/src/events/touch.js" />
         <option value="$PROJECT_DIR$/src/smooth-scrollbar.js" />
         <option value="$PROJECT_DIR$/src/render/render-overscroll.js" />
-        <option value="$PROJECT_DIR$/test/scripts/controller.js" />
         <option value="$PROJECT_DIR$/src/internals/init-options.js" />
+        <option value="$PROJECT_DIR$/test/scripts/controller.js" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -303,7 +237,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,18 +248,6 @@
               <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="apis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
@@ -349,18 +270,6 @@
             <path>
               <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -373,6 +282,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,33 +330,37 @@
       <workItem from="1503592541907" duration="5392000" />
       <workItem from="1503637189726" duration="1492000" />
       <workItem from="1503643649706" duration="4252000" />
-      <workItem from="1503675627636" duration="14115000" />
+      <workItem from="1503675627636" duration="14680000" />
+      <workItem from="1503724514655" duration="204000" />
+      <workItem from="1503729251622" duration="5856000" />
+      <workItem from="1503779401602" duration="599000" />
+      <workItem from="1503820444225" duration="145000" />
+      <workItem from="1503997785229" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35945000" />
+    <option name="totallyTimeSpent" value="43929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28524947" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -480,28 +394,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/internals/init-scrollbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/events/touch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/events/wheel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,9 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,20 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="40" column="46" lean-forward="false" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <marker date="1502700076966" expanded="true" signature="976:1057" ph="..." />
-            <marker date="1502700076966" expanded="true" signature="1113:1194" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="69" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,17 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/scripts/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,57 +654,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/render/render.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
-          <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-          <folding />
+          <caret line="74" column="48" lean-forward="false" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/events/drag.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="779">
+          <caret line="45" column="40" lean-forward="false" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/apis/overscroll-listener.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding />
+          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/render/render-overscroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-          <folding>
-            <element signature="e#64#118#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="817">
+          <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/events/touch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+        <state relative-caret-position="1995">
+          <caret line="110" column="22" lean-forward="false" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/render/movement-lock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="494">
           <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -857,37 +704,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/smooth-scrollbar.js">
+    <entry file="file://$PROJECT_DIR$/dist/smooth-scrollbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="130" column="31" lean-forward="false" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
+        <state relative-caret-position="-2926">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/scripts/controller.js">
+    <entry file="file://$PROJECT_DIR$/src/smooth-scrollbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        <state relative-caret-position="1767">
+          <caret line="103" column="39" lean-forward="false" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4522">
+          <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/internals/init-options.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="456">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="e#59#99#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/scripts/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="68" lean-forward="true" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <marker date="1503998111673" expanded="true" signature="1031:1112" ph="..." />
+            <marker date="1503998111673" expanded="true" signature="1168:1249" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
