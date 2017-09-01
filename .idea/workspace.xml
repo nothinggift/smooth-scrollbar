@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eedf79c8-2109-4eed-8933-444de79eeb6c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/smooth-scrollbar.css" afterPath="$PROJECT_DIR$/dist/smooth-scrollbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/smooth-scrollbar.js" afterPath="$PROJECT_DIR$/dist/smooth-scrollbar.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/apis/get-size.js" afterPath="$PROJECT_DIR$/src/apis/get-size.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/smooth-scrollbar.styl" afterPath="$PROJECT_DIR$/src/style/smooth-scrollbar.styl" />
@@ -24,25 +26,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <marker date="1504283783159" expanded="true" signature="367:857" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="382:438" ph="{&quot;type&quot;: 'range'...}" />
-                <marker date="1504283783159" expanded="true" signature="451:505" ph="{&quot;type&quot;: 'range'...}" />
-                <marker date="1504283783159" expanded="true" signature="525:580" ph="{&quot;type&quot;: 'range'...}" />
-                <marker date="1504283783159" expanded="true" signature="607:676" ph="{&quot;type&quot;: 'select'...}" />
-                <marker date="1504283783159" expanded="true" signature="700:773" ph="{&quot;type&quot;: 'select'...}" />
-                <marker date="1504283783159" expanded="true" signature="798:854" ph="{&quot;type&quot;: 'range'...}" />
-                <marker date="1504283783159" expanded="true" signature="876:913" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1283:1974" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1342:1618" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1422:1499" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1538:1612" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1624:1811" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1672:1738" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1744:1805" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1840:1970" ph="{...}" />
-                <marker date="1504283783159" expanded="true" signature="1883:1936" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,7 +44,7 @@
       <file leaf-file-name="mouse.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/events/mouse.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2128">
+            <state relative-caret-position="2147">
               <caret line="116" column="2" lean-forward="false" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
               <folding>
                 <element signature="e#60#114#0" expanded="true" />
@@ -73,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/internals/init-options.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -92,8 +76,8 @@
       <file leaf-file-name="get-size.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/apis/get-size.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="30" column="93" lean-forward="true" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+            <state relative-caret-position="399">
+              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -102,8 +86,8 @@
       <file leaf-file-name="smooth-scrollbar.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/style/smooth-scrollbar.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,23 +96,9 @@
       <file leaf-file-name="touch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/events/touch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
+            <state relative-caret-position="722">
               <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-              <folding>
-                <marker date="1504283783152" expanded="true" signature="344:3183" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="515:926" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="983:2464" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1221:1276" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1428:1755" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1514:1599" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1657:1695" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1701:1745" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="1813:2319" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="2072:2160" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="2265:2309" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="2532:3179" ph="{...}" />
-                <marker date="1504283783152" expanded="true" signature="2740:2964" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +106,7 @@
       <file leaf-file-name="get-pointer-data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/get-pointer-data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="228">
               <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="36" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -282,6 +252,12 @@
               <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smooth-scrollbar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smooth-scrollbar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="internals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -382,11 +358,12 @@
       <workItem from="1503779401602" duration="599000" />
       <workItem from="1503820444225" duration="145000" />
       <workItem from="1503997785229" duration="615000" />
+      <workItem from="1504285461846" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45042000" />
+    <option name="totallyTimeSpent" value="45467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -394,7 +371,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -403,21 +379,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28524947" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -474,7 +441,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/events/mouse.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
+        <state relative-caret-position="2147">
           <caret line="116" column="2" lean-forward="false" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
           <folding>
             <element signature="e#60#114#0" expanded="true" />
@@ -703,29 +670,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/events/touch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
+        <state relative-caret-position="722">
           <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-          <folding>
-            <marker date="1504283783152" expanded="true" signature="344:3183" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="515:926" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="983:2464" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1221:1276" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1428:1755" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1514:1599" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1657:1695" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1701:1745" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="1813:2319" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="2072:2160" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="2265:2309" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="2532:3179" ph="{...}" />
-            <marker date="1504283783152" expanded="true" signature="2740:2964" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -771,25 +723,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <marker date="1504283783159" expanded="true" signature="367:857" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="382:438" ph="{&quot;type&quot;: 'range'...}" />
-            <marker date="1504283783159" expanded="true" signature="451:505" ph="{&quot;type&quot;: 'range'...}" />
-            <marker date="1504283783159" expanded="true" signature="525:580" ph="{&quot;type&quot;: 'range'...}" />
-            <marker date="1504283783159" expanded="true" signature="607:676" ph="{&quot;type&quot;: 'select'...}" />
-            <marker date="1504283783159" expanded="true" signature="700:773" ph="{&quot;type&quot;: 'select'...}" />
-            <marker date="1504283783159" expanded="true" signature="798:854" ph="{&quot;type&quot;: 'range'...}" />
-            <marker date="1504283783159" expanded="true" signature="876:913" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1283:1974" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1342:1618" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1422:1499" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1538:1612" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1624:1811" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1672:1738" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1744:1805" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1840:1970" ph="{...}" />
-            <marker date="1504283783159" expanded="true" signature="1883:1936" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -804,17 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/apis/get-size.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="30" column="93" lean-forward="true" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,24 +745,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2774">
           <caret line="149" column="10" lean-forward="false" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/smooth-scrollbar.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/internals/init-options.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -848,6 +760,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/apis/get-size.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/smooth-scrollbar.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
