@@ -1,6 +1,6 @@
 {
   "name": "tk-smooth-scrollbar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "forked from https://github.com/idiotWu/smooth-scrollbar.git",
   "main": "dist/smooth-scrollbar.js",
   "style": "dist/smooth-scrollbar.css",

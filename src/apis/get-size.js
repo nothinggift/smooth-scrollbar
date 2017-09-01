@@ -15,6 +15,9 @@ import { SmoothScrollbar } from '../smooth-scrollbar';
 SmoothScrollbar.prototype.getSize = function () {
     const container = this.targets.container;
     const content = this.targets.content;
+    const styles = window.getComputedStyle(content);
+    let marginX = parseFloat(styles['marginLeft']) + parseFloat(styles['marginRight']);
+    let marginY = parseFloat(styles['marginTop']) + parseFloat(styles['marginBottom']);
 
     return {
         container: {
@@ -24,8 +27,8 @@ SmoothScrollbar.prototype.getSize = function () {
         },
         content: {
             // border width should be included
-            width: content.offsetWidth - content.clientWidth + content.scrollWidth,
-            height: content.offsetHeight - content.clientHeight + content.scrollHeight,
+            width: content.offsetWidth - content.clientWidth + content.scrollWidth + marginX,
+            height: content.offsetHeight - content.clientHeight + content.scrollHeight + marginY,
         },
     };
 };
